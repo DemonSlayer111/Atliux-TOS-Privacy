@@ -2,7 +2,7 @@
 
 ### Last updated April 19, 2022
 
-This website and the Atliux discord bot (collectively, "The Service") are owned by atliux.com ("we", "us", or "atliux.com"). By accessing the website at https://atliux.com or using the Atliux discord bot, you agree to be bound by these terms of service, any and all applicable laws and regulations, and agree that you are responsible for compliance with local laws. By accessing The Service, you confirm that you are at least 18 years old, or are at least 13 years old and accessing The Service under the supervision of a parent or guardian. If you do not agree with any of these terms, you are prohibited from using or accessing The Service.
+This website and the Atliux discord bot (collectively, "The Service") are owned by atliux.com ("we", "us", or "atliux.com"). By accessing the website at [https://atliux.com](/) or using the Atliux discord bot, you agree to be bound by these terms of service, any and all applicable laws and regulations, and agree that you are responsible for compliance with local laws. By accessing The Service, you confirm that you are at least 18 years old, or are at least 13 years old and accessing The Service under the supervision of a parent or guardian. If you do not agree with any of these terms, you are prohibited from using or accessing The Service.
 
 ## Use of The Service
 
@@ -95,7 +95,7 @@ We reserve the right, but not the obligation, to: (1) monitor The Service for vi
 
 ## Privacy Policy
 
-We care about data privacy and security. Please review our Privacy Policy: https://atliux.com/privacy. By using The Service, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service. Please be advised The Service is hosted in Canada. If you access The Service from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Canada, then through your continued use of The Service, you are transferring your data to Canada, and you agree to have your data transferred to and processed in Canada.
+We care about data privacy and security. Please review our Privacy Policy: [https://atliux.com/privacy](/privacy). By using The Service, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service. Please be advised The Service is hosted in Canada. If you access The Service from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Canada, then through your continued use of The Service, you are transferring your data to Canada, and you agree to have your data transferred to and processed in Canada.
 
 ## Term and Termination
 
