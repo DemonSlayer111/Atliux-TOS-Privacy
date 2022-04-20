@@ -6,7 +6,7 @@ This privacy notice for Atliux ("we," "us," or "our"), describes how and why we 
 - Visit our website at [https://atliux.com](/), or any website of ours that links to this privacy notice
 - Use the Atliux discord bot
 
-## What Informationn Do We Collect?
+## What Information Do We Collect?
 ### Personal information you disclose to us
 
 ***In Short:** We collect personal information that you provide to us.*
