@@ -20,6 +20,7 @@ We collect personal information that you voluntarily provide to us when you expr
 - contact or authentication data
 - discord message content
 - discord server information (roles, channels, members)
+
 **Sensitive Information.** We do not process sensitive information.
 
 **Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "[How Do We Handle Your Social Logins](/privacy#how-do-we-handle-your-social-logins)?" below.
