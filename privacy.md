@@ -3,7 +3,7 @@
 ### Last Updated April 20, 2022
 
 This privacy notice for Atliux ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
-- Visit our website at https://atliux.com, or any website of ours that links to this privacy notice
+- Visit our website at [https://atliux.com](/), or any website of ours that links to this privacy notice
 - Use the Atliux discord bot
 
 ## What Informationn Do We Collect?
@@ -22,7 +22,7 @@ We collect personal information that you voluntarily provide to us when you expr
 - discord server information (roles, channels, members)
 **Sensitive Information.** We do not process sensitive information.
 
-**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
+**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "[How Do We Handle Your Social Logins](/privacy#how-do-we-handle-your-social-logins)?" below.
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
